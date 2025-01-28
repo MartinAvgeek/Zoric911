@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Zoric911
-- 👀 I’m interested in Rockets
+- 👋 Hi, I’m @MartinAvgeek
+- 👀 I’m interested in Aerospace stuff
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Code
 - ⚡ Fun fact: I love Aerospace engineering
