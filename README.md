@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zoric911
 - 👀 I’m interested in Rockets
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Code
-- ⚡ Fun fact: I love Phyton but I don´t know how to code it
+- ⚡ Fun fact: I love Aerospace engineering
 
 <!---
 Zoric911/Zoric911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
